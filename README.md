@@ -128,4 +128,10 @@ Dependencies: `streamlit`, `google-genai`, `python-dotenv`, `pytest`
 
 ---
 
+## Stretch Features
+
+**RAG Enhancement (+2):** Retrieval is extended across three species-specific knowledge sources (`dog_care.txt`, `cat_care.txt`, `other_care.txt`) with keyword-based section matching. The system demonstrates measurably different outputs depending on species and focus area.
+
+**Test Harness (+2):** `test_rag.py` runs 9 predefined tests covering file loading, keyword matching, fallback behavior, and confidence scoring, and prints a pass/fail summary with scores.
+
 *CodePath AI110 — Module 5 Final Project*
