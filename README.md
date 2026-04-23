@@ -3,7 +3,7 @@
 A Streamlit app that helps pet owners plan daily care routines. I extended my Module 2 project by adding a RAG-powered AI advice engine using the Gemini API.
 
 
-🎬 [Watch the demo](https://www.loom.com/share/15ca298692d94ec483a22cbcdc6070e7)
+🎬 [Watch the demo](https://www.loom.com/share/63c16e42b8c64dae9b145bbc6b91767f)
 
 ---
 
