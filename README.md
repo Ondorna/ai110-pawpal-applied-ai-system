@@ -64,15 +64,19 @@ python test_rag.py     # run tests
 
 ## Sample outputs
 
-**Dog, exercise, 3 tasks scheduled, confidence 100%:**
-> "Mochi is 3 years old, so a good baseline for daily exercise is 30–60 minutes. It's great that Mochi already has three walks scheduled! Consider making one a sniff walk for mental stimulation, adding a short 5–15 minute training session between walks, and rotating toys regularly to prevent boredom."
+**Example 1 — Mochi (dog, age 3), Exercise, confidence 100%:**
+> "Mochi is a 3-year-old dog — 30–60 minutes of exercise daily is the target. Three walks scheduled is a great start! Consider making one a sniff walk for mental stimulation, adding a 5–15 minute training session, and rotating toys to prevent boredom."
 
-**Retrieved knowledge (RAG context):**
-> EXERCISE section from `dog_care.txt` — most adult dogs need 30–60 minutes per day, puppies need short frequent play sessions, avoid intense exercise after meals.
+**Example 2 — Luna (cat, age 2), Exercise, confidence 100%:**
+> "Luna has a play session scheduled — great! Dedicate 15–30 minutes to active play with a feather wand. Add a climbing structure for stretching, and rotate toys to keep things exciting. Consider adding a puzzle feeder for extra mental stimulation."
+
+**Example 3 — Luna (cat, age 2), General care, confidence 70%:**
+> "Feed Luna twice a day, morning and evening. Aim for 15–30 minutes of active play daily. Weekly brushing and ear checks recommended. Schedule an annual vet wellness checkup. Add a dental care session — brushing teeth 2–3 times a week is ideal."
 
 **Confidence score:**
 - Dog + exercise + 3 tasks → 100% ✅
-- Unknown species + no tasks → 40% ⚠️ (falls back to `other_care.txt`)
+- Cat + exercise + 2 tasks → 100% ✅  
+- Cat + general + 2 tasks → 70% 🟡
 
 ---
 
@@ -101,11 +105,7 @@ The biggest hurdle was the Gemini SDK — `google.generativeai` is deprecated an
 
 ## Reflection
 
-The knowledge base only covers general advice — it doesn't know about breed-specific needs or individual health conditions. Someone could use this instead of consulting a vet, which is a real risk. I tried to mitigate it by framing all output as suggestions and always recommending vet visits for health questions.
-
-The "rabbit" edge case surprised me: it scored 40% confidence instead of 0% because `other_care.txt` exists as a fallback. Technically correct, but misleading — a user might think I have specific rabbit data.
-
-Claude was useful for the initial architecture but generated code with deprecated imports and Python 3.10-only type hints that broke on my 3.9 setup. I had to fix both manually. Good reminder to always test AI-generated code in your actual environment.
+See [model_card.md](model_card.md) for full reflection on AI collaboration, biases, and testing results.
 
 ---
 
