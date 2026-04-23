@@ -117,7 +117,6 @@ Claude was useful for the initial architecture but generated code with deprecate
 ├── pawpal_system.py    # Owner, Pet, Task, Scheduler
 ├── test_rag.py         # 9 tests
 ├── data.json           # persisted data
-├── pawpal_rag.log      # RAG call log
 ├── assets              # architecture diagram
 └── knowledge_base/
     ├── dog_care.txt
