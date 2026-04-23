@@ -1,0 +1,38 @@
+SPECIES: other
+
+FEEDING:
+- Research your specific pet's dietary needs carefully, as they vary widely.
+- Rabbits need unlimited hay, fresh vegetables, and limited pellets daily.
+- Guinea pigs need hay, fresh vegetables rich in vitamin C, and pellets.
+- Birds need species-appropriate seeds, pellets, and fresh fruits/vegetables.
+- Small mammals like hamsters and gerbils need a balanced seed and pellet mix.
+- Always provide fresh, clean water daily.
+- Avoid giving pets human food unless confirmed safe for their species.
+
+EXERCISE:
+- Rabbits need at least 3 hours of exercise outside their enclosure daily.
+- Guinea pigs need a large enclosure and daily floor time for exploration.
+- Birds need daily out-of-cage time and mental stimulation.
+- Hamsters are nocturnal and need a wheel for nightly exercise.
+- Research the specific exercise needs for your pet's species and age.
+
+GROOMING:
+- Rabbits groom themselves but need brushing during shedding season.
+- Guinea pigs need regular nail trims and brushing depending on coat type.
+- Birds may need baths or misting 2-3 times per week.
+- Check your pet regularly for signs of overgrown nails, fur matting, or skin issues.
+- Most small pets should not be bathed unless specifically needed.
+
+HEALTH:
+- Find a vet experienced with exotic or small animals for your specific pet.
+- Annual wellness checkups are recommended for most pets.
+- Watch for changes in eating, drinking, activity level, or droppings — these signal health issues.
+- Maintain a clean habitat to prevent bacterial and parasitic infections.
+- Research species-specific health risks and vaccinations if applicable.
+
+ENRICHMENT:
+- All pets benefit from mental stimulation and environmental enrichment.
+- Provide hiding spots, tunnels, and climbing structures appropriate for your pet.
+- Rotate toys and enrichment items to maintain interest.
+- Social species (guinea pigs, rabbits, birds) may need companionship from their own kind.
+- Research natural behaviors for your pet's species and try to encourage them in captivity.

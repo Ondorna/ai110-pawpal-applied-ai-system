@@ -1,0 +1,37 @@
+SPECIES: dog
+
+FEEDING:
+- Adult dogs should be fed 2 times per day, typically morning and evening.
+- Puppies under 6 months need 3-4 small meals per day.
+- Senior dogs (7+ years) may need smaller, more frequent meals.
+- Always provide fresh water at all times.
+- Avoid feeding dogs chocolate, grapes, onions, garlic, and xylitol — these are toxic.
+
+EXERCISE:
+- Most adult dogs need 30-60 minutes of exercise per day.
+- High-energy breeds (Labrador, Border Collie, Husky) need 1-2 hours per day.
+- Small or senior dogs may only need 20-30 minutes of gentle walking.
+- Puppies should have short, frequent play sessions (5 minutes per month of age).
+- Avoid intense exercise right after meals to prevent bloat.
+
+GROOMING:
+- Short-haired dogs need brushing once a week.
+- Long-haired dogs need brushing 3-4 times per week to prevent matting.
+- Bathe dogs every 4-6 weeks, or when dirty.
+- Trim nails every 3-4 weeks to prevent overgrowth.
+- Check and clean ears weekly to prevent infections.
+- Brush teeth 2-3 times per week to prevent dental disease.
+
+HEALTH:
+- Dogs should visit the vet at least once a year for a wellness checkup.
+- Puppies need a series of vaccinations starting at 6-8 weeks.
+- Monthly heartworm prevention medication is strongly recommended.
+- Flea and tick prevention should be applied monthly.
+- Spaying or neutering is recommended at 6 months unless breeding.
+- Watch for signs of illness: lethargy, vomiting, diarrhea, loss of appetite.
+
+ENRICHMENT:
+- Dogs need mental stimulation daily — puzzle toys, training sessions, or sniff walks.
+- Socialization with other dogs and people is important, especially for puppies.
+- Training sessions of 5-15 minutes per day help keep dogs mentally sharp.
+- Rotate toys regularly to keep dogs engaged and prevent boredom.
